@@ -1,2 +1,7 @@
 # juntisimo
-Gather people for enjoy our hobby!
+
+Android application for meetup people who wants to play or sharing their spirits.
+
+
+# juntisimo, DB modeling
+
